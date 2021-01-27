@@ -33,7 +33,7 @@ def FIFI_PR(string, no_frame):
 
 no_of_frame = int(input("Enter number of frame : "))
 string = []
-size = int(input("Enter size of list : "))
+size = int(input("Enter number of pages  : "))
 for i in range(size):
     value = int(input("enter value : "))
     string.append(value)
